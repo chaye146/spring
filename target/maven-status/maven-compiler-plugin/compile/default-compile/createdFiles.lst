@@ -1,7 +1,0 @@
-hello\xml\XMLMessageProvider.class
-hello\annotation\AnnotationMessageProvider.class
-hello\MessageRenderer.class
-hello\Application.class
-hello\xml\XMLMessageRenderer.class
-hello\annotation\AnnotationMessageRenderer.class
-hello\MessageProvider.class
